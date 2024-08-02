@@ -8,6 +8,6 @@ for x in range(1,105):
     elif (x % 3 == 0):
         print("fizz")
     elif x % 5 == 0:
-        print("buzz")
+        print("buzzfhdsjkhfdsjkhfdsjk")
     else:
         print(x)
