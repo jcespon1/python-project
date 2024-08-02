@@ -1,0 +1,6 @@
+new_array = ["One", "Two", "Three", "Four", "five", "six"]
+
+for x in range(0, len(new_array)):
+    print(new_array[x])
+
+
